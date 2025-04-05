@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: burlywood;
+}
+
+.title {
+    text-align: center;
+    margin: 15px 15px 15px 15px;
+}
+
+.header-1 {
+    color: brown;
+    font-size: 50px;
+}
+
+.recipe-container {
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+.recipe {
+    color: brown;
+    font-size: 27px;
+    font-weight: 600;
+}
